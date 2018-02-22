@@ -40,9 +40,9 @@
                   style="max-width: 20rem;"
                   class="mb-2">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
+              Comparte aquello que puedas crear e imaginar
             </p>
-            <b-button href="#" variant="primary">Go somewhere</b-button>
+            <b-button href="#" variant="primary">Compartir!</b-button>
           </b-card>
         </b-col>
         <b-col>
@@ -54,9 +54,9 @@
                   style="max-width: 20rem;"
                   class="mb-2">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
+              Comparte aquello que te gusta hacer y te permita divertirte
             </p>
-            <b-button href="#" variant="primary">Go somewhere</b-button>
+            <b-button href="#" variant="primary">Compartir!</b-button>
           </b-card>
         </b-col>
         <b-col>
@@ -68,9 +68,9 @@
                   style="max-width: 20rem;"
                   class="mb-2">
             <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
+              Comparte tus pasatiempos con tus amigos!
             </p>
-            <b-button href="#" variant="primary">Go somewhere</b-button>
+            <b-button href="#" variant="primary">Compartir!</b-button>
           </b-card>
         </b-col>
       </b-row>
